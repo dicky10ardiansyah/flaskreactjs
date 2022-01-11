@@ -1,0 +1,4 @@
+buka terminal venv
+ketik py
+ketik from app import db
+ketik db.create_all()
